@@ -1,0 +1,1 @@
+# azure-multi-vm-and-vnet-script
